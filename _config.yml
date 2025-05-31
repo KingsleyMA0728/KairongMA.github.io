@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "马凯榕 武汉大学形象照1.png"
-  name             : "Kairong MA"
+  name             : "马凯榕"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "武汉大学经济与管理学院"
+  location         : "湖北省 武汉市"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "KairongMA@163.com" 
 
   # Academic websites
   academia         : # URL
